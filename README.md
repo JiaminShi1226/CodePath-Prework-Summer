@@ -39,11 +39,10 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-<img src=”http://g.recordit.co/WxevwRvSWh.gif”/>
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
+![](http://g.recordit.co/dGgyYLwqkD.gif)
+![](http://g.recordit.co/x7N2rEfyvm.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
@@ -67,8 +66,8 @@ When I was playing this game, I didn't know how long I needed to play to win. Th
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
-https://youtu.be/lv5QofgrSak
+[My 5-minute Interview Recording](https://youtu.be/lv5QofgrSak)
+
 
 
 ## License
